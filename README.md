@@ -13,7 +13,7 @@ Feel free to explore the samples and get in touch if you have any questions or w
 The year 2023 so far has been marked by groundbreaking scientific discoveries that push the boundaries of our knowledge and understanding. From advances in space exploration to remarkable breakthroughs in medicine, this article explores ten of the most exciting scientific discoveries of 2023:
 '[Top 10 Exciting Scientific Discoveries of 2023](https://github.com/SuzetteRansome/writing-samples/blob/main/Top%2010%20Exciting%20Scientific%20Discoveries%20of%202023.pdf)'
 
-Augmented reality (AR) has gained significant traction across various industries, revolutionizing the way businesses interact with their customers and enhancing user experiences. The articles below explores some examples of how AR is shaping different sectors:
+Augmented reality (AR) has gained significant traction across various industries, revolutionizing the way businesses interact with their customers and enhancing user experiences. This article explores some examples of how AR is shaping different sectors:
 '[Applications of Augmented Reality (AR)](https://github.com/SuzetteRansome/writing-samples/blob/main/Applications%20of%20Augmented%20Reality%20(AR).pdf)'
 
 Virtual Reality (VR) technology has revolutionized various industries, offering immersive and interactive experiences that were once only imaginable. In this article, we delve into the wide range of applications of VR in different sectors:
