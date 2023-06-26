@@ -8,4 +8,4 @@ As a writer, I specialize in crafting white papers, in-depth blog posts, and com
 
 In this repository, you'll find a collection of my writing samples that showcase my expertise in various aspects of technology. Each piece demonstrates my ability to distill complex ideas into accessible and informative content.
 
-Feel free to explore the samples and get in touch if you have any questions or would like to discuss potential collaboration. I look forward to connecting with you!
+Feel free to explore the samples and get in touch if you have any questions or would like to discuss potential collaboration. I can be reached by email at suzette.ransome@gmail.com. I look forward to connecting with you!
