@@ -9,3 +9,10 @@ As a writer, I specialize in crafting white papers, in-depth blog posts, and com
 In this repository, you'll find a collection of my writing samples that showcase my expertise in various aspects of technology. Each piece demonstrates my ability to distill complex ideas into accessible and informative content.
 
 Feel free to explore the samples and get in touch if you have any questions or would like to discuss potential collaboration. I can be reached by email at suzette.ransome@gmail.com. I look forward to connecting with you!
+
+
+'[Top 10 Exciting Scientific Discoveries of 2023](https://github.com/SuzetteRansome/writing-samples/blob/main/Top%2010%20Exciting%20Scientific%20Discoveries%20of%202023.pdf)'
+
+'[Applications of Augmented Reality](https://github.com/SuzetteRansome/writing-samples/blob/main/Applications%20of%20Augmented%20Reality%20(AR).pdf)'
+
+'[Embracing Virtual Reality: How Emerging Virtual Reality (VR) Technology Drives Transformation Across Industries](https://github.com/SuzetteRansome/writing-samples/blob/main/Embracing%20Virtual%20Reality.pdf)'
