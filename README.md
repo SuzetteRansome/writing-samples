@@ -2,7 +2,7 @@
 
 Suzette Ransome - Specialized Writer
 
-Welcome to my GitHub repository! I'm Suzette Ransome, a specialized writer with a focus on creating long-form and complex content. I have a passion for transforming technical information into engaging and user-friendly material.
+Welcome to my GitHub repository! I'm Suzette Ransome, a specialized USA-based writer with a focus on creating long-form and complex content. I have a passion for transforming technical information into engaging and user-friendly material.
 
 As a writer, I specialize in crafting white papers, in-depth blog posts, and comprehensive e-books. With a keen eye for clarity and a dedication to effective communication, I strive to deliver high-quality content that resonates with readers.
 
